@@ -6,5 +6,5 @@ Bachelors of Science in Information Technologies; specifically Cybersecurity and
 
 Familiar with Solidity, JavaScript, Python, SQL. 
 
-Experienced in Node.js, Truffle Framework, Bash, Selenium, Virtualization. 
+Experienced in Node.js, hardhat/truffle, Bash, Selenium, Virtualization. 
 
